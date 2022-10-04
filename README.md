@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Prime Movies](https://github.com/DevilSJ786/PrimeMovies)
 
-- 🌱 I’m currently learning **Katlin**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevilSJ786?tab=repositories](https://github.com/DevilSJ786?tab=repositories)
 
