@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DevilSJ786?tab=repositories](https://github.com/DevilSJ786?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects ](https://github.com/DevilSJ786?tab=repositories)
 
 - 📫 How to reach me **subhashkudi59@gmail.com**
 
